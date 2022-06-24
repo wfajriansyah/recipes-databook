@@ -21,7 +21,7 @@ function Body() {
             <Route path='/' element={<ListRecipes />} />
             <Route path='/recipes/:id' element={<Recipes/>} />
           </Routes>
-        </Div>
+        </Div>s
       </>
     );
   }
